@@ -225,7 +225,7 @@ const Certificate = memo(({
     <div className="absolute inset-0 flex items-center justify-center opacity-[0.025] pointer-events-none select-none z-0">
        <div className="relative w-[90%] aspect-square flex items-center justify-center">
           <img 
-            src="ogo.png" 
+            src="https://drive.google.com/file/d/1DgWexrvai7QFai_ZHeuIQhHu83b4G1de/view?usp=drive_link" 
             alt="Manexra Watermark" 
             className="w-full h-auto object-contain blur-[2px]"
             referrerPolicy="no-referrer"
@@ -241,7 +241,7 @@ const Certificate = memo(({
       <header className="flex justify-between items-center w-full">
         <div className="flex items-center gap-6">
           <img 
-            src="ogo.png" 
+            src="clogo.png" 
             alt="Manexra" 
             className="h-24 w-auto p-1"
             referrerPolicy="no-referrer"
